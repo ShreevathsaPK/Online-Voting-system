@@ -1,0 +1,10 @@
+			------------------------
+			| Candidate  | Symbol  |
+			------------------------
+			| Manjunath  | Tiger   |
+			| Hemanth    | Fan     |
+			| Arvind     | Table   |
+			| Gopal      | Book    |
+			| Prakruthi  | Peacock |
+			| Veena      | Vase    |
+			------------------------
